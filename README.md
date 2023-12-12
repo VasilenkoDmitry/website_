@@ -1,4 +1,5 @@
 Зависимости которые были установлены во время создания проекта:
+
 server* npm install express pg pg-hstore sequelize cors dotenv
 server* npm install -D nodemon
 server* npm i express-fileupload
